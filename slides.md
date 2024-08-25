@@ -25,6 +25,10 @@
 
 ---
 
+![img.png](./img.png)
+
+---
+
 ## Stage 1 - 🎢 Journey with UI Libraries
 
 ### React-Bootstrap
@@ -41,6 +45,8 @@
 ---
 
 ## Stage 2 - 😅 The Struggles with Custom Components - Props Jungle
+
+<!-- prettier-ignore-start -->
 
 
 ````md magic-move {lines: true}
@@ -60,8 +66,7 @@ const Modal = ({ isOpen, onClose, title, children }) => {
 };
 ```
 
-```ts {7-8}
-// prettier-ignore
+```ts {6-7}
 const Modal = ({
   isOpen,
   onClose,
@@ -72,8 +77,7 @@ const Modal = ({
 })
 ```
 
-```ts {9}
-// prettier-ignore
+```ts {8}
 const Modal = ({
   isOpen,
   onClose,
@@ -85,8 +89,7 @@ const Modal = ({
 })
 ```
 
-```ts {10-12}
-// prettier-ignore
+```ts {9-12}
 const Modal = ({
   isOpen,
   onClose,
@@ -100,7 +103,25 @@ const Modal = ({
   onCloseComplete,
 })
 ```
+
+```ts
+const Modal = ({
+  isOpen,
+  onClose,
+  title,
+  children,
+  width,
+  height,
+  customClassName,
+  closeOnOverlayClick,
+  onOpen,
+  onCloseComplete,
+  ...
+})
+```
 ````
+
+<!-- prettier-ignore-end -->
 
 <!--
 Examples: Autocomplete, Combobox, Multi-tag-select, Dropdown, Modals
@@ -114,34 +135,13 @@ Conclusion: MUI was not flexible enough for unique needs
 
 ## 💡 Discovering Headless Components
 
-- Inspiration: Interaction with a community member, Nick Ribal
-- Introduction to Reach UI: Accessible components without styling
-- First Impressions: Skepticism due to Reach UI's old-fashioned site
-
----
-
-## 🤯 Embracing Headless Components
-
-### Finding Headless UI
-
-- Discovery: Through Twitter, led to exploration of Headless UI
-- Experimentation: Refactoring Gloat's menu dropdown component
+- Introduction to Radix UI: Accessible components without styling
 
 ### Benefits Realized
 
 - **♿ Accessibility**: Pre-built, well-tested components
 - **🎨 Flexibility**: Complete control over design and rendering logic
 - **🚀 Performance**: Reduced bundle size by importing only what's needed
-
----
-
-## 🏆 Comparing Headless Component Libraries
-
-- **Radix UI**: Well-tested, accessible, but with some React Testing Library issues
-- **Reach UI**: Reliable, though with limited components
-- **Headless UI**: Best with Tailwind CSS, but less flexible in functionality
-- **Downshift**: Total control over styling and functionality, great for complex components
-- **Other Libraries**: React-aria, Reakit, Ariakit, and more
 
 ---
 
@@ -156,25 +156,35 @@ Conclusion: MUI was not flexible enough for unique needs
 ### Cons:
 
 - Responsibility: More decisions and custom implementation required
-- Community: Smaller, less active than major UI libraries
 
 ---
 
-## 🎭 When to Use Headless Components
+## with great power comes great responsibility - You Own the style
 
-- Use Case: When building design systems with unique requirements
-- Alternative: UI libraries might be better for rapid development without heavy customization needs
+<!--
+Who here like styling things
+-->
 
 ---
 
-## 🎬 Conclusion
+## Introducing Shadcn
 
-- Final Thoughts: Headless components offer a balance of flexibility and accessibility
-- Recommendation: Consider headless components for projects with unique design demands
-- Next Steps: Explore headless components to see if they fit your project's needs
+https://ui.shadcn.com/
+
+---
+
+## Using Shadcn as the base for engineering metrics
+
+##
+
+---
+
+## Credits
+
+[Nir Ben-Yair](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
 
 ---
 
 ## 👋 Thank You
 
-- Q&A Session
+- Q&A
