@@ -10,9 +10,9 @@
 
 - Yedidya Rashi
 - DevEx Developer at Next Insurance
-- Passionate about web development, make my life as developer more enjoyable, cool open-source projects.
-- In my spare time, I enjoy learning and experiment with computer science, math, and economics.
-- some video games and dumb videos in tiktok
+- Passionate about web development, making my life as a developer more enjoyable through cool open-source projects.
+- In my spare time, I enjoy learning and experimenting with computer science, math, and economics.
+- Some video games and funny videos on TikTok.
 
 ---
 
