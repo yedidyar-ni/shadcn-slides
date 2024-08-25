@@ -25,7 +25,7 @@
 
 ---
 
-![img.png](./img.png)
+![mui-meme](./mui-meme.png)
 
 ---
 
@@ -173,9 +173,25 @@ https://ui.shadcn.com/
 
 ---
 
+## Engineering Metrics
+
+![engineering metrics](./engineering-metrics.png)
+
+---
+
+### Tech stack - [create T3 app](https://create.t3.gg/)
+
+![create-t3-app](./create-t3-app.png)
+
+---
+
 ## Using Shadcn as the base for engineering metrics
 
-##
+- [v0.dev](https://v0.dev)
+
+- first UI POC was delivered in **1 day**
+
+- working MVP was delivered and less that **3 weeks**
 
 ---
 
