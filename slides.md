@@ -214,6 +214,10 @@ class: text-center
 
 ---
 
+![9/11](./boom.png)
+
+---
+
 ## 👋 Thank You
 
 - Q&A
