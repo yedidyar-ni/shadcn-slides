@@ -8,11 +8,10 @@
 
 ### About Me
 
-- Yedidya Rashi
-- DevEx Developer at Next Insurance
-- Passionate about web development, making my life as a developer more enjoyable through cool open-source projects.
-- In my spare time, I enjoy learning and experimenting with computer science, math, and economics.
-- Some video games and funny videos on TikTok.
+- **Name:** Yedidya Rashi
+- **Role:** DevEx Developer at Next Insurance
+- **Passion:** Web development & open-source projects
+- **Interests:** Computer science, math, economics, gaming, and wasting my TikTok
 
 ---
 
@@ -24,13 +23,13 @@
 
 <br/>
 
-- **♿ Accessibility**: Ensuring all components are accessible
-- **🌓 Theming**: Support for multiple themes (e.g., light/dark mode)
-- **🎨 Uniqueness**: Custom look and feel determined by the design team
-- **🌐 Browser Support**: Support for all major browsers and IE11
-- **🛠️ Functionality**: Custom behaviors tailored to your unique use cases
-- **📱 Responsiveness**: Support for all screen sizes and devices
-- **🧹 Maintainability**: Easy to modify and maintain
+1. ♿ **Accessibility**
+2. 🌓 **Theming**
+3. 🎨 **Unique Design**
+4. 🌐 **Cross-Browser Support**
+5. 🛠️ **Custom Functionality**
+6. 📱 **Responsiveness**
+7. 🧹 **Maintainability**
 
 ---
 
@@ -38,26 +37,29 @@
 
 ---
 
-## Stage 1 - 🎢 Journey with UI Libraries
+## 🎢 The UI Library Rollercoaster
 
 <br/>
 
-### React-Bootstrap
 
-- Used for complicated components only
-- Self-implemented atomic components like Button, Checkbox, Avatar
+### Stage 1: Exploration
+1. **React-Bootstrap**
+   - Used for complex components
+   - Custom implementation of atomic components
 
 <br/>
 
-### Material-UI (MUI)
 
-- Reason: Modern API and better theming support
-- Benefits: Hooks, customization, and best practices integration
-- Challenge: Struggles with complex custom components
+2. **Material-UI (MUI)**
+   - Modern API and improved theming
+   - Integration of best practices
+   - Limitation: Struggle with highly custom components
 
 ---
 
-## Stage 2 - 😅 The Struggles with Custom Components - Props Jungle
+## 😅 Stage 2: The Props Jungle
+
+### The Challenge of Custom Components
 
 <br/>
 
@@ -86,7 +88,9 @@ const Modal = ({
   children,
   width,
   height,
-})
+}) {
+  ...
+};
 ```
 
 ```ts {8}
@@ -98,7 +102,9 @@ const Modal = ({
   width,
   height,
   customClassName,
-})
+}) {
+  ...
+};
 ```
 
 ```ts {9-12}
@@ -113,7 +119,9 @@ const Modal = ({
   closeOnOverlayClick,
   onOpen,
   onCloseComplete,
-})
+}) {
+  ...
+};
 ```
 
 ```ts
@@ -129,7 +137,11 @@ const Modal = ({
   onOpen,
   onCloseComplete,
   ...
-})
+}) {
+   // A minimum of 300 lines of logic should be tested for 
+   // Custom Functionality, Theming, Accessibility, Cross-Browser Support, Responsiveness, etc.
+  ...
+};
 ```
 ````
 
