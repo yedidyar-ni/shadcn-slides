@@ -190,6 +190,10 @@ class: text-center
 
 ---
 
+![linearB](./linearB.png)
+
+---
+
 ## Using Shadcn as the base for engineering metrics
 
 - [v0.dev](https://v0.dev)
@@ -197,6 +201,10 @@ class: text-center
 - first UI POC was delivered in **1 day**
 
 - working MVP was delivered and less that **3 weeks**
+
+---
+
+## [Engineering Metrics](https://engineering-metrics.nextinsurance.io/)
 
 ---
 
