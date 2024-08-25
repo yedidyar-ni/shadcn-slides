@@ -33,7 +33,7 @@
 
 ---
 layout: image-right
-image: ./mui-meme.png
+image: mui-meme.png
 backgroundSize: 30em
 ---
 
@@ -154,7 +154,7 @@ Conclusion: MUI was not flexible enough for unique needs
 -->
 ---
 layout: image-right
-image: ./dropdown-menu.png
+image: dropdown-menu.png
 backgroundSize: 45em
 ---
 
