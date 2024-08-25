@@ -143,12 +143,14 @@ class: text-center
 
 ## 💡 Discovering Headless Components
 
-- Introduction to Radix UI: Accessible components without styling
+- Introduction to Headless Components: Accessible components without styling
+
+<br/>
 
 ### Benefits Realized
 
 - **♿ Accessibility**: Pre-built, well-tested components
-- **🎨 Flexibility**: Complete control over design and rendering logic
+- **🎨 Flexibility**: Complete control over design and rendering logic - using the power of **inversion of control**
 - **🚀 Performance**: Reduced bundle size by importing only what's needed
 
 ---
