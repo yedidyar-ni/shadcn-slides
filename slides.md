@@ -309,10 +309,6 @@ class: text-center
 - [Create T3 App Documentation](https://create.t3.gg/)
 
 ---
-
-![9/11](./boom.png)
-
----
 layout: center
 class: text-center
 ---
