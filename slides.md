@@ -161,6 +161,8 @@ Conclusion: MUI was not flexible enough for unique needs
 
 ## with great power comes great responsibility - You Own the style
 
+![spiderman](./spiderman.png)
+
 <!--
 Who here like styling things
 -->
