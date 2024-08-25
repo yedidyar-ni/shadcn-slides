@@ -152,6 +152,13 @@ Issues: Difficulties in enforcing design and functionality
 
 Conclusion: MUI was not flexible enough for unique needs
 -->
+---
+
+# **Key Issues:**
+- Prop explosion
+- Difficulty in enforcing design consistency
+- Limited flexibility for unique needs
+- need to test things that we don't want to care about
 
 ---
 layout: center
@@ -162,17 +169,25 @@ class: text-center
 
 ---
 
-## 💡 Discovering Headless Components
-
-- Introduction to Headless Components: Accessible components without styling
+## 💡 The Headless Revolution
 
 <br/>
 
-### Benefits Realized
 
-- **♿ Accessibility**: Pre-built, well-tested components
-- **🎨 Flexibility**: Complete control over design and rendering logic - using the power of **inversion of control**
-- **🚀 Performance**: Reduced bundle size by importing only what's needed
+### Discovering Headless Components
+
+<br/>
+
+
+**Definition:** Accessible components without pre-defined styling
+
+<br/>
+
+**Key Benefits:**
+1. ♿ Built-in accessibility
+2. 🎨 Complete design control
+3. 🚀 Optimized performance
+4. 🧩 Flexible composition
 
 ---
 
@@ -180,48 +195,38 @@ class: text-center
 
 <br/>
 
-### Radix UI
-
-- Accessible primitives for building high-quality, accessible design systems and web apps.
-- Components: Dialog, Dropdown Menu, Tooltip, Slider, and more.
-
-
-### Headless UI
-
-- Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- Components: Menu, Listbox, Combobox, Switch, Dialog, and more.
+## 🛠️ Headless Component Libraries
 
 <br/>
 
-### Reakit
+1. **Radix UI**
+   - Accessible primitives for robust design systems
 
-- Accessible, composable, and reusable components for React.
-- Components: Button, Checkbox, Dialog, Menu, Popover, and more.
+2. **Headless UI**
+   - Unstyled, accessible components (Tailwind CSS friendly)
 
+3. **Reakit**
+   - Composable and reusable React components
 
-### Downshift
-
-- Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components.
-- Components: Dropdown, Combobox, Autocomplete, and more.
+4. **Downshift**
+   - WAI-ARIA compliant primitives for enhanced inputs
 
 ---
 
-## ⚖️ Pros and Cons of Headless Components
+## ⚖️ The Headless Trade-off
 
 <br/>
 <br/>
 
-### Pros:
-
-- Customization: Tailored to unique design and functionality needs
-- Bundle Size: Only necessary code is included, reducing bloat
-- Styling Freedom: Compatible with any styling solution
+### Pros
+- Unparalleled customization
+- Reduced bundle size
+- Styling freedom
 
 <br/>
 
-### Cons:
-
-- Responsibility: More decisions and custom implementation required
+### Cons
+- Increased responsibility for implementation
 
 ---
 layout: center
@@ -235,28 +240,24 @@ class: text-center
 
 ---
 
-## Introducing Shadcn
+## 🎨 Shadcn: The Best of Both Worlds
 
 <br/>
 <br/>
 
 
+### Features
+- Pre-built, customizable components
+- Based on Radix UI
+- Themeable and accessible
+
+<br/>
+<br/>
+
+### Ecosystem
 - [shadcn/ui](https://ui.shadcn.com/)
 - [shadcn/ui themes](https://ui.shadcn.com/themes)
-
-<br/>
-<br/>
-
-### shadcn ecosystem
-- https://shipixen.com/component-explorer-shadcn
-
----
-layout: center
-class: text-center
----
-### Tech stack - [create T3 app](https://create.t3.gg/)
-
-![create-t3-app](./create-t3-app.png)
+- [Shipixen Component Explorer](https://shipixen.com/component-explorer-shadcn)
 
 ---
 
@@ -264,23 +265,48 @@ class: text-center
 
 ---
 
-## Using Shadcn as the base for engineering metrics
+## 🚀 Case Study: Engineering Metrics Dashboard
+
+<br/>
+
+### Tech Stack
 
 - [v0.dev](https://v0.dev)
+- [Create T3 App](https://create.t3.gg/)
+- Shadcn UI
 
-- first UI POC was delivered in **1 day**
+<br/>
 
-- working MVP was delivered and less that **3 weeks**
+### Development Timeline
+- UI Prototype: **1 day**
+- Working MVP: **~ 3 weeks**
+
+<br/>
+
+[View the Dashboard](https://engineering-metrics.nextinsurance.io/)
 
 ---
 
-## [Engineering Metrics](https://engineering-metrics.nextinsurance.io/)
+## 🎓 Key Takeaways
+
+<br/>
+
+1. Headless components offer unparalleled flexibility
+2. Consider the trade-off between customization and development speed
+3. Shadcn provides a balanced approach for many projects
+4. Always prioritize accessibility and performance
 
 ---
 
-## Credits
+## 📚 Further Reading
 
-[Nir Ben-Yair](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
+<br/>
+
+
+- [Nir Ben-Yair's Article on Headless Components](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
+- [Radix UI Documentation](https://www.radix-ui.com/)
+- [Headless UI Guide](https://headlessui.dev/)
+- [Create T3 App Documentation](https://create.t3.gg/)
 
 ---
 
