@@ -207,8 +207,11 @@ class: text-center
 
 ## Introducing Shadcn
 
-https://ui.shadcn.com/
+- [shadcn/ui](https://ui.shadcn.com/)
+- [shadcn/ui themes](https://ui.shadcn.com/themes)
 
+### shadcn ecosystem
+- https://shipixen.com/component-explorer-shadcn
 
 ---
 layout: center
