@@ -32,9 +32,9 @@
 7. 🧹 **Maintainability**
 
 ---
-
-![mui-meme](./mui-meme.png)
-
+layout: image-right
+image: ./mui-meme.png
+backgroundSize: 30em
 ---
 
 ## 🎢 The UI Library Rollercoaster
@@ -153,19 +153,16 @@ Issues: Difficulties in enforcing design and functionality
 Conclusion: MUI was not flexible enough for unique needs
 -->
 ---
+layout: image-right
+image: ./dropdown-menu.png
+backgroundSize: 45em
+---
 
 # **Key Issues:**
 - Prop explosion
 - Difficulty in enforcing design consistency
 - Limited flexibility for unique needs
 - need to test things that we don't want to care about
-
----
-layout: center
-class: text-center
----
-
-![dropdown-menu](./dropdown-menu.png)
 
 ---
 
@@ -313,7 +310,10 @@ layout: center
 class: text-center
 ---
 
-# 🙏 Thanks
+# 🙏 Special Thanks
+
+### Tamir Zur & DevEx team
+
 
 
 ---
