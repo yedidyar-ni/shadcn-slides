@@ -4,6 +4,8 @@
 
 ## 🚀 Introduction
 
+<br/>
+
 ### About Me
 
 - Yedidya Rashi
@@ -19,6 +21,8 @@
 ---
 
 ## 🏗️ Design System Requirements
+
+<br/>
 
 - **♿ Accessibility**: Ensuring all components are accessible
 - **🌓 Theming**: Support for multiple themes (e.g., light/dark mode)
@@ -36,10 +40,14 @@
 
 ## Stage 1 - 🎢 Journey with UI Libraries
 
+<br/>
+
 ### React-Bootstrap
 
 - Used for complicated components only
 - Self-implemented atomic components like Button, Checkbox, Avatar
+
+<br/>
 
 ### Material-UI (MUI)
 
@@ -51,6 +59,7 @@
 
 ## Stage 2 - 😅 The Struggles with Custom Components - Props Jungle
 
+<br/>
 
 ````md magic-move {lines: true}
 ```ts {*|1}
@@ -187,19 +196,26 @@ class: text-center
 
 ## ⚖️ Pros and Cons of Headless Components
 
+<br/>
+<br/>
+
 ### Pros:
 
 - Customization: Tailored to unique design and functionality needs
 - Bundle Size: Only necessary code is included, reducing bloat
 - Styling Freedom: Compatible with any styling solution
 
+<br/>
+
 ### Cons:
 
 - Responsibility: More decisions and custom implementation required
 
 ---
-
-## with great power comes great responsibility - You Own the style
+layout: center
+class: text-center
+---
+## You Own the style
 
 ![spiderman](./spiderman.png)
 
@@ -209,8 +225,15 @@ class: text-center
 
 ## Introducing Shadcn
 
+<br/>
+<br/>
+
+
 - [shadcn/ui](https://ui.shadcn.com/)
 - [shadcn/ui themes](https://ui.shadcn.com/themes)
+
+<br/>
+<br/>
 
 ### shadcn ecosystem
 - https://shipixen.com/component-explorer-shadcn
@@ -250,6 +273,14 @@ class: text-center
 ---
 
 ![9/11](./boom.png)
+
+---
+layout: center
+class: text-center
+---
+
+# 🙏 Thanks
+
 
 ---
 
