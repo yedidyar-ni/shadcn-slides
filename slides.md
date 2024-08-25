@@ -153,6 +153,36 @@ class: text-center
 
 ---
 
+## Available Headless Component Libraries
+
+<br/>
+
+### Radix UI
+
+- Accessible primitives for building high-quality, accessible design systems and web apps.
+- Components: Dialog, Dropdown Menu, Tooltip, Slider, and more.
+
+
+### Headless UI
+
+- Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- Components: Menu, Listbox, Combobox, Switch, Dialog, and more.
+
+<br/>
+
+### Reakit
+
+- Accessible, composable, and reusable components for React.
+- Components: Button, Checkbox, Dialog, Menu, Popover, and more.
+
+
+### Downshift
+
+- Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components.
+- Components: Dropdown, Combobox, Autocomplete, and more.
+
+---
+
 ## ⚖️ Pros and Cons of Headless Components
 
 ### Pros:
