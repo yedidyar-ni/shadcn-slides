@@ -19,7 +19,7 @@
 - **🌓 Theming**: Support for multiple themes (e.g., light/dark mode)
 - **🎨 Uniqueness**: Custom look and feel determined by the design team
 - **🌐 Browser Support**: Support for all major browsers and IE11
-- **🛠️ Functionality**: Custom behaviors tailored to Gloat's unique use cases
+- **🛠️ Functionality**: Custom behaviors tailored to your unique use cases
 - **📱 Responsiveness**: Support for all screen sizes and devices
 - **🧹 Maintainability**: Easy to modify and maintain
 
