@@ -8,8 +8,13 @@
 
 - Yedidya Rashi
 - DevEx Developer at Next Insurance
-- Passionate about web development and cool open-source projects.
-- In my spare time, I enjoy learning about computer science, math, and economics.
+- Passionate about web development, make my life as developer more enjoyable, cool open-source projects.
+- In my spare time, I enjoy learning and experiment with computer science, math, and economics.
+- some video games and dumb videos in tiktok
+
+---
+
+![engineering metrics](./engineering-metrics.png)
 
 ---
 
@@ -45,8 +50,6 @@
 ---
 
 ## Stage 2 - 😅 The Struggles with Custom Components - Props Jungle
-
-<!-- prettier-ignore-start -->
 
 
 ````md magic-move {lines: true}
@@ -121,8 +124,6 @@ const Modal = ({
 ```
 ````
 
-<!-- prettier-ignore-end -->
-
 <!--
 Examples: Autocomplete, Combobox, Multi-tag-select, Dropdown, Modals
 
@@ -130,6 +131,13 @@ Issues: Difficulties in enforcing design and functionality
 
 Conclusion: MUI was not flexible enough for unique needs
 -->
+
+---
+layout: center
+class: text-center
+---
+
+![dropdown-menu](./dropdown-menu.png)
 
 ---
 
@@ -163,9 +171,7 @@ Conclusion: MUI was not flexible enough for unique needs
 
 ![spiderman](./spiderman.png)
 
-<!--
-Who here like styling things
--->
+
 
 ---
 
@@ -173,14 +179,11 @@ Who here like styling things
 
 https://ui.shadcn.com/
 
----
-
-## Engineering Metrics
-
-![engineering metrics](./engineering-metrics.png)
 
 ---
-
+layout: center
+class: text-center
+---
 ### Tech stack - [create T3 app](https://create.t3.gg/)
 
 ![create-t3-app](./create-t3-app.png)
