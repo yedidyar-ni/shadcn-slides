@@ -33,7 +33,7 @@
 
 ---
 layout: image-right
-image: mui-meme.png
+image: /images/mui-meme.png
 backgroundSize: 30em
 ---
 
@@ -154,9 +154,10 @@ Conclusion: MUI was not flexible enough for unique needs
 -->
 ---
 layout: image-right
-image: dropdown-menu.png
+image: /images/dropdown-menu.png
 backgroundSize: 45em
 ---
+
 
 # **Key Issues:**
 - Prop explosion
