@@ -42,9 +42,6 @@
 
 ## Stage 2 - 😅 The Struggles with Custom Components - Props Jungle
 
-<!-- Examples: Autocomplete, Combobox, Multi-tag-select, Dropdown, Modals
-Issues: Difficulties in enforcing design and functionality
-Conclusion: MUI was not flexible enough for unique needs -->
 
 ````md magic-move {lines: true}
 ```ts {*|1}
@@ -104,6 +101,14 @@ const Modal = ({
 })
 ```
 ````
+
+<!--
+Examples: Autocomplete, Combobox, Multi-tag-select, Dropdown, Modals
+
+Issues: Difficulties in enforcing design and functionality
+
+Conclusion: MUI was not flexible enough for unique needs
+-->
 
 ---
 
