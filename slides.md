@@ -1,3 +1,7 @@
+---
+transition: slide-left
+---
+
 # Unleash the power of Headless Components
 
 ---
