@@ -45,14 +45,13 @@ backgroundSize: 30em
 
 <br/>
 
-
 ### Stage 1: Exploration
+
 1. **React-Bootstrap**
    - Used for complex components
    - Custom implementation of atomic components
 
 <br/>
-
 
 2. **Material-UI (MUI)**
    - Modern API and improved theming
@@ -142,7 +141,7 @@ const Modal = ({
   onCloseComplete,
   ...
 }) {
-   // A minimum of 300 lines of logic should be tested for 
+   // A minimum of 300 lines of logic should be tested for
    // Custom Functionality, Theming, Accessibility, Cross-Browser Support, Responsiveness, etc.
   ...
 };
@@ -156,14 +155,15 @@ Issues: Difficulties in enforcing design and functionality
 
 Conclusion: MUI was not flexible enough for unique needs
 -->
+
 ---
 layout: image-right
 image: /images/dropdown-menu.png
 backgroundSize: 45em
 ---
 
-
 # **Key Issues:**
+
 - Prop explosion
 - Difficulty in enforcing design consistency
 - Limited flexibility for unique needs
@@ -175,17 +175,16 @@ backgroundSize: 45em
 
 <br/>
 
-
 ### Discovering Headless Components
 
 <br/>
-
 
 **Definition:** Accessible components without pre-defined styling
 
 <br/>
 
 **Key Benefits:**
+
 1. ♿ Built-in accessibility
 2. 🎨 Complete design control
 3. 🚀 Optimized performance
@@ -202,12 +201,15 @@ backgroundSize: 45em
 <br/>
 
 1. **Radix UI**
+
    - Accessible primitives for robust design systems
 
 2. **Headless UI**
+
    - Unstyled, accessible components (Tailwind CSS friendly)
 
 3. **Reakit**
+
    - Composable and reusable React components
 
 4. **Downshift**
@@ -221,6 +223,7 @@ backgroundSize: 45em
 <br/>
 
 ### Pros
+
 - Unparalleled customization
 - Reduced bundle size
 - Styling freedom
@@ -228,17 +231,17 @@ backgroundSize: 45em
 <br/>
 
 ### Cons
+
 - Increased responsibility for implementation
 
 ---
 layout: center
 class: text-center
 ---
+
 ## You Own the style
 
 ![spiderman](./spiderman.png)
-
-
 
 ---
 
@@ -247,8 +250,8 @@ class: text-center
 <br/>
 <br/>
 
-
 ### Features
+
 - Pre-built, customizable components
 - Based on Radix UI
 - Themeable and accessible
@@ -257,6 +260,7 @@ class: text-center
 <br/>
 
 ### Ecosystem
+
 - [shadcn/ui](https://ui.shadcn.com/)
 - [shadcn/ui themes](https://ui.shadcn.com/themes)
 - [Shipixen Component Explorer](https://shipixen.com/component-explorer-shadcn)
@@ -280,6 +284,7 @@ class: text-center
 <br/>
 
 ### Development Timeline
+
 - UI Prototype: **1 day**
 - Working MVP: **~ 3 weeks**
 
@@ -304,7 +309,6 @@ class: text-center
 
 <br/>
 
-
 - [Nir Ben-Yair's Article on Headless Components](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
 - [Radix UI Documentation](https://www.radix-ui.com/)
 - [Headless UI Guide](https://headlessui.dev/)
@@ -318,8 +322,6 @@ class: text-center
 # 🙏 Special Thanks
 
 ### Tamir Zur & DevEx team
-
-
 
 ---
 
