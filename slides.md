@@ -14,6 +14,8 @@ transition: slide-left
 
 - **Name:** Yedidya Rashi
 - **Role:** DevEx Developer at Next Insurance
+- **Passion:** Web development & open-source projects
+- **Free Time:** Computer science, economics, gaming, and wasting my time on TikTok
 
 ---
 
