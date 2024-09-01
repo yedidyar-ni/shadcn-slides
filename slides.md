@@ -25,18 +25,12 @@ who loves CSS?
 - **Free Time:** Computer science, economics, gaming, and wasting my time on TikTok
 
 ---
-transition: none
----
 
 ![linearB](./linearB.png)
 
 ---
-layout: iframe
 
-url: https://engineering-metrics.nextinsurance.io/
-zoom: 0.5
-transition: none
----
+![engineering metrics](./engineering-metrics.png)
 
 ---
 
@@ -56,7 +50,6 @@ transition: none
 layout: image-right
 image: /images/mui-meme.png
 backgroundSize: 30em
-transition: none
 ---
 
 ## 🎢 The UI Library Rollercoaster
