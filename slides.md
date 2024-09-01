@@ -4,6 +4,13 @@ transition: slide-left
 
 # Unleash the power of Headless Components
 
+<!--
+who is frontend guy?
+Who here has ever written a frontend application?
+who hates CSS?
+who loves CSS?
+-->
+
 ---
 
 ## 🚀 Introduction
@@ -18,8 +25,18 @@ transition: slide-left
 - **Free Time:** Computer science, economics, gaming, and wasting my time on TikTok
 
 ---
+transition: none
+---
 
-![engineering metrics](./engineering-metrics.png)
+![linearB](./linearB.png)
+
+---
+layout: iframe
+
+url: https://engineering-metrics.nextinsurance.io/
+zoom: 0.5
+transition: none
+---
 
 ---
 
@@ -39,6 +56,7 @@ transition: slide-left
 layout: image-right
 image: /images/mui-meme.png
 backgroundSize: 30em
+transition: none
 ---
 
 ## 🎢 The UI Library Rollercoaster
