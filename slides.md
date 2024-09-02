@@ -48,8 +48,13 @@ lets try
 
 <!--
 How much time did it take us?
+
+today we will talk about the UI side of the project
 -->
 
+---
+layout: image-right
+image: https://i.giphy.com/10zsjaH4g0GgmY.webp
 ---
 
 ## 🏗️ Design System Requirements
@@ -64,6 +69,12 @@ How much time did it take us?
 6. 📱 **Responsiveness**
 7. 🧹 **Maintainability**
 
+<!--
+show each of the of these requirements in the engineering metrics
+
+https://engineering-metrics.nextinsurance.io/
+-->
+
 ---
 layout: image-right
 image: /images/mui-meme.png
@@ -77,8 +88,7 @@ backgroundSize: 30em
 ### Stage 1: Exploration
 
 1. **React-Bootstrap**
-   - Used for complex components
-   - Custom implementation of atomic components
+   - class name based styling
 
 <br/>
 
@@ -177,14 +187,6 @@ const Modal = ({
 ```
 ````
 
-<!--
-Examples: Autocomplete, Combobox, Multi-tag-select, Dropdown, Modals
-
-Issues: Difficulties in enforcing design and functionality
-
-Conclusion: MUI was not flexible enough for unique needs
--->
-
 ---
 layout: image-right
 image: /images/dropdown-menu.png
@@ -208,7 +210,7 @@ backgroundSize: 45em
 
 <br/>
 
-**Definition:** Accessible components without pre-defined styling
+**Definition:** components with functionality and without pre-defined styling
 
 <br/>
 
@@ -218,6 +220,42 @@ backgroundSize: 45em
 2. 🎨 Complete design control
 3. 🚀 Optimized performance
 4. 🧩 Flexible composition
+
+<!--
+Explain what is headless 
+
+how can Use headless
+-->
+
+---
+
+````md magic-move {lines: true}
+```ts {*|3-6|7-13|*}
+const Checkbox = () => {
+  return (
+    <CheckboxCards.Root
+      defaultValue={["1"]}
+      columns={{ initial: "1", sm: "3" }}
+    >
+      <CheckboxCards.Item value="1">
+        <div className="my-custom-classname">
+          <span style={{ background : "red" }}>
+            Pro Mouse
+          </span>
+        </div>
+      </CheckboxCards.Item>
+      <CheckboxCards.Item value="2">
+        <div className="my-custom-classname">
+          <span style={{ background : "blue" }}>
+            Pro Keyboard
+          </span>
+        </div>
+      </CheckboxCards.Item>
+    </CheckboxCards.Root>
+  );
+};
+```
+````
 
 ---
 
@@ -243,7 +281,6 @@ backgroundSize: 45em
 
 ### Pros
 
-- Unparalleled customization
 - Reduced bundle size
 - Styling freedom
 
@@ -261,6 +298,10 @@ class: text-center
 ## You Own the style
 
 ![spiderman](./spiderman.png)
+
+<!--
+so we have two solutions but both have it downsides
+-->
 
 ---
 
