@@ -5,12 +5,18 @@ transition: slide-left
 # Unleash the power of Headless Components
 
 <!--
-who is frontend guy?
-Who here has ever written a frontend application?
-who hates CSS?
-who loves CSS?
+Who is frontend guy?
+
+Who has ever written a frontend application here?
+
+Who hates CSS?
+
+Who loves CSS?
 -->
 
+---
+layout: image-right
+image: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlsOXBpcm9vdGw1aXdnMzRzeDQ2d3NkZXdhd3pjdnRrZHltdXpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzJ67MJMk6UMM/giphy.webp
 ---
 
 ## 🚀 Introduction
@@ -28,9 +34,21 @@ who loves CSS?
 
 ![linearB](./linearB.png)
 
+<!--
+redash is suck
+
+how harder it will be to create something like this
+
+lets try
+-->
+
 ---
 
 ![engineering metrics](./engineering-metrics.png)
+
+<!--
+How much time did it take us?
+-->
 
 ---
 
@@ -212,19 +230,9 @@ backgroundSize: 45em
 <br/>
 
 1. **Radix UI**
-
-   - Accessible primitives for robust design systems
-
 2. **Headless UI**
-
-   - Unstyled, accessible components (Tailwind CSS friendly)
-
-3. **Reakit**
-
-   - Composable and reusable React components
-
+3. **Ariakit**
 4. **Downshift**
-   - WAI-ARIA compliant primitives for enhanced inputs
 
 ---
 
@@ -334,6 +342,9 @@ class: text-center
 
 ### Tamir Zur & DevEx team
 
+---
+layout: image-right
+image: https://i.giphy.com/dRvEZLV0ORAmHT1L5u.webp
 ---
 
 ## 👋 Thank You
