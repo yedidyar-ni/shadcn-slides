@@ -327,7 +327,7 @@ so we have two solutions but both have it downsides
 
 ---
 
-![linearB](./linearB.png)
+![engineering metrics](./engineering-metrics.png)
 
 ---
 
@@ -350,18 +350,14 @@ so we have two solutions but both have it downsides
 
 <br/>
 
-[View the Dashboard](https://engineering-metrics.nextinsurance.io/)
-
 ---
 
 ## 🎓 Key Takeaways
 
 <br/>
 
-1. Headless components offer unparalleled flexibility
-2. Consider the trade-off between customization and development speed
-3. Shadcn provides a balanced approach for many projects
-4. Always prioritize accessibility and performance
+1. Headless components offer the ultimate flexibility
+2. Shadcn provides a balanced approach for many projects
 
 ---
 
@@ -371,7 +367,7 @@ so we have two solutions but both have it downsides
 
 - [Nir Ben-Yair's Article on Headless Components](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
 - [Radix UI Documentation](https://www.radix-ui.com/)
-- [Headless UI Guide](https://headlessui.dev/)
+- [Headless UI Documentation](https://headlessui.dev/)
 - [Create T3 App Documentation](https://create.t3.gg/)
 
 ---
