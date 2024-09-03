@@ -373,6 +373,7 @@ so we have two solutions but both have it downsides
 ---
 layout: center
 class: text-center
+transition: none
 ---
 
 # 🙏 Special Thanks
@@ -380,10 +381,14 @@ class: text-center
 ### Tamir Zur & DevEx team
 
 ---
+layout: image
+image: https://i0.wp.com/blackboardradio.com/wp-content/uploads/2023/11/6453afe8a20709436882f952_qna-min.png?fit=2000%2C1127&ssl=1
+transition: none
+---
+
+---
 layout: image-right
 image: https://i.giphy.com/dRvEZLV0ORAmHT1L5u.webp
 ---
 
 ## 👋 Thank You
-
-- Q&A
