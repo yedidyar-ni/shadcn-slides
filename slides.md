@@ -354,6 +354,41 @@ so we have two solutions but both have it downsides
 <br/>
 
 ---
+layout: center
+---
+
+<img src="./just-prompt.png" alt="just-prompt" width="95%" />(https://v0.dev/r/2Z7gqX8DE68)
+
+---
+layout: center
+---
+
+<img src="./prompt-with-image.png" alt="prompt-with-image" width="95%" />(https://v0.dev/r/uFCJrZJYalj)
+
+---
+
+## live demo
+
+```bash
+pnpm create t3-app shadcn-demo
+cd shadcn-demo
+pnpx shadcn@latest init
+pnpx v0 add huIjY9GKcLA
+code .
+```
+
+```bash
+pnpx shadcn@latest add dialog
+pnpx shadcn@latest add label
+```
+
+---
+layout: center
+---
+
+<Tweet id="1830761040872906764" />
+
+---
 
 ## 🎓 Key Takeaways
 
