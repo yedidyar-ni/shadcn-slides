@@ -281,8 +281,8 @@ const Checkbox = () => {
 
 ### Pros
 
-- Reduced bundle size
 - Styling freedom
+- Reduced bundle size
 
 <br/>
 
