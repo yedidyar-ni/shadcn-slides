@@ -323,7 +323,7 @@ so we have two solutions but both have it downsides
 
 - [shadcn/ui](https://ui.shadcn.com/)
 - [shadcn/ui themes](https://ui.shadcn.com/themes)
-- [Shipixen Component Explorer](https://shipixen.com/component-explorer-shadcn)
+- [Awesome shadcn](https://github.com/birobirobiro/awesome-shadcn-ui)
 
 ---
 
