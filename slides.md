@@ -216,15 +216,18 @@ backgroundSize: 45em
 
 **Key Benefits:**
 
-1. ♿ Built-in accessibility
-2. 🎨 Complete design control
-3. 🚀 Optimized performance
-4. 🧩 Flexible composition
+1. 📦 Functionality out of the box
+2. ♿ Built-in accessibility
+3. 🎨 Complete design control
+4. 🚀 Optimized performance
+5. 🧩 Flexible composition
 
 <!--
 Explain what is headless 
 
 how can Use headless
+
+inversion of control
 -->
 
 ---
