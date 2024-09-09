@@ -15,22 +15,6 @@ Who loves CSS?
 -->
 
 ---
-layout: image-right
-image: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlsOXBpcm9vdGw1aXdnMzRzeDQ2d3NkZXdhd3pjdnRrZHltdXpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzJ67MJMk6UMM/giphy.webp
----
-
-## 🚀 Introduction
-
-<br/>
-
-### About Me
-
-- **Name:** Yedidya Rashi
-- **Role:** DevEx Developer at Next Insurance
-- **Passion:** Web development & open-source projects
-- **Free Time:** Computer science, economics, gaming, and wasting my time on TikTok
-
----
 
 ![linearB](./linearB.png)
 
@@ -51,6 +35,22 @@ How much time did it take us?
 
 today we will talk about the UI side of the project
 -->
+
+---
+layout: image-right
+image: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlsOXBpcm9vdGw1aXdnMzRzeDQ2d3NkZXdhd3pjdnRrZHltdXpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzJ67MJMk6UMM/giphy.webp
+---
+
+## 🚀 Introduction
+
+<br/>
+
+### About Me
+
+- **Name:** Yedidya Rashi
+- **Role:** DevEx Developer at Next Insurance
+- **Passion:** Web development & open-source projects
+- **Free Time:** Computer science, economics, gaming, and wasting my time on TikTok
 
 ---
 layout: image-right
